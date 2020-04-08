@@ -4,13 +4,21 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jitendra Singh. I have the following attributes:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Strengths
+- I learn 
+- I adapt
+- I accomodate
+
+
+### Weaknesses
+- I learn
+- I adapt
+- I accomodate
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am living the present. 
